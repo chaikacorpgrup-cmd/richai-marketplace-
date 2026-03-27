@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+richai.db
+
+# Node
+node_modules/
+.next/
+tmp/
+
+# Misc
+.DS_Store
